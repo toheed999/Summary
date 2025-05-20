@@ -1,4 +1,4 @@
-# Summary
+# From Accounting to Data - My Journey
 # Hi there 👋
 Welcome to my GitHub profile!
 
