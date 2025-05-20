@@ -1,4 +1,4 @@
-# From Accounting to Data - My Journey
+# From Finance to Data — My Journey 📈
 # Hi there 👋
 Welcome to my GitHub profile!
 
