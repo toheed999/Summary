@@ -11,5 +11,6 @@ My name is **Toheed Hussain**, a **Data Analyst** and ** JustIT Data Skills Boot
 
 📍 Based in Newcastle | 💼 Background in Tax Compliance | 🎓 BSc Accounting & Finance, 2021
 
-🤝 I'm open to data-driven roles or collaborations—feel free to connect!
+🎯 Currently: Exploring opportunities in data analytics and building hands-on projects to sharpen my skills in **Python**, **SQL**, **Power BI**, and **Tableau**. 
+
 
