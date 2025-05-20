@@ -1,8 +1,12 @@
 # Summary
-Hi name is Toheed Hussain 
+Hi 👋
 
-Data Analyst - Bootcamp Graduate 
+Welcome to my GitHub profile!
 
-I'm based in Newcastle 
+My name is Toheed Hussain
+
+Data Analyst - Bootcamp Graduate with a background in Tax Compliance
+
+I'm based in Newcastle, graduating from my BSc Accounting & Finance degree in 2021. 
 
 Skill set: Python, SQL, Power BI, Tableau 
